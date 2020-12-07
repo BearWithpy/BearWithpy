@@ -1,4 +1,4 @@
-##### 404 Error You Got Wrong Github Address
+# 404 Error You Got Wrong Github Address
 
 <!--
 **BearWithpy/BearWithpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 👌 Interested in...
+### 👌 Interested in...
 --------------------------------------------------------------------------------
 * Python / Django :)
 * Javascript , Typescript
   * React
   * NestJS
 * Go
-
 --------------------------------------------------------------------------------
+
+<br/>
 
 ⚡ fact: 2020-2021 Fxckin' COVID-19
