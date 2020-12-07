@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pksjmh5295@gmail.com)](mailto:pksjmh5295@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jxnsx_5295/)](https://www.instagram.com/jxnsx_5295/)
 
-### 👌 Interested in...
+<!-- ### 👌 Interested in...--> 
+<br/>
+### 🌱 learning...
 --------------------------------------------------------------------------------
 * Python / Django :)
 * Javascript , Typescript
@@ -28,6 +30,6 @@ Here are some ideas to get you started:
 --------------------------------------------------------------------------------
 
 <br/>
-⚡ fact: 2020-2021 Fxckin' COVID-19
+⚡ fact: 2019-202? Fxckin' COVID-19
 <br/>
 VILLAIN
