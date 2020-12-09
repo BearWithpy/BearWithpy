@@ -1,5 +1,4 @@
-# 404 Error : Page Not Found <br/> You Got Wrong Github Address
-
+# 404 Error : Page Not Found :(<br/> You Got Wrong Github Address
 <!--
 **BearWithpy/BearWithpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,17 +19,10 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pksjmh5295@gmail.com)](mailto:pksjmh5295@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ffccff?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jxnsx_5295/)](https://www.instagram.com/jxnsx_5295/)
 
-
 ### 🌱 learning...
 --------------------------------------------------------------------------------
 * Python / Django :)
 * Javascript , Typescript
-  * React
-  * NestJS
 * Go
 --------------------------------------------------------------------------------
-
-<br/>
-⚡ fact: 2019-202? Fxckin' COVID-19
-<br/>
 VILLAIN
