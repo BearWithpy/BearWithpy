@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 # 🌱 learning...
 --------------------------------------------------------------------------------
-### * Python / Django :)
-### * Javascript , Typescript
-### * Go
+* Python / Django :)
+* Javascript , Typescript
+* Go
 --------------------------------------------------------------------------------
 ### VILLAIN
