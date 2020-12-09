@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - 👌 Interested in...
 
 -->
-## Junsu 
+# Junsu 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pksjmh5295@gmail.com)](mailto:pksjmh5295@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ffccff?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jxnsx_5295/)](https://www.instagram.com/jxnsx_5295/)
 
-### 🌱 learning...
+# 🌱 learning...
 --------------------------------------------------------------------------------
-* Python / Django :)
-* Javascript , Typescript
-* Go
+### * Python / Django :)
+### * Javascript , Typescript
+### * Go
 --------------------------------------------------------------------------------
-VILLAIN
+### VILLAIN
