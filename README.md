@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👌 Interested in...
 -->
 
-### 🌱 HI THERE~
+### 🌱 HI THERE
 
 
 <div align=center>
