@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 🌱 HI THERE __@StudywithCloning()__
-```typescript font:consolas
+```typescript
 async createApp(start : StartWithWhat): Promise<boolean>{
  console.log(Junsu.name);
  try {
