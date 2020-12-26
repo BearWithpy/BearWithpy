@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 🌱 HI THERE @StudywithCloning()
 ```typescript
-async createApp(): Promise<boolean>{
+async createApp(start : StartWithWhat): Promise<boolean>{
  console.log(Junsu.name);
  try {
    await this.appClone.createApp(Start);
