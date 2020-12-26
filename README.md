@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 👌 Interested in...
 -->
 
-### 🌱 HI THERE @StudywithCloning()
-```typescript
+🌱 HI THERE __@StudywithCloning()__
+```typescript font:consolas
 async createApp(start : StartWithWhat): Promise<boolean>{
  console.log(Junsu.name);
  try {
