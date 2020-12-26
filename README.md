@@ -13,8 +13,20 @@ Here are some ideas to get you started:
 - 👌 Interested in...
 -->
 
-## 🌱 HI THERE
+### 🌱 HI THERE @StudywithCloning()
+```typescript
+async createApp(): Promise<boolean>{
+ console.log(Junsu.name);
+ try {
+   await this.appClone.createApp(Start);
+   return true;
+ } catch (e) {
+   console.log(e);
+   return false;
+ }
+}
 
+```
 
 <div align=center>
 
