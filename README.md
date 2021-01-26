@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 async createApp(start : StartWithWhat): Promise<boolean>{
  console.log(Junsu.name);
  try {
-   await this.appClone.createApp(Start);
+   await this.appClone.createApp(start);
    return true;
  } catch (e) {
    console.log(e);
